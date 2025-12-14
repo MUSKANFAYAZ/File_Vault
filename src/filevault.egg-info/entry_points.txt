@@ -1,0 +1,2 @@
+[console_scripts]
+filevault = filevault.cli:main
