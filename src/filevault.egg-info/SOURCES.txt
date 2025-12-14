@@ -1,8 +1,0 @@
-README.md
-setup.py
-src/filevault.egg-info/PKG-INFO
-src/filevault.egg-info/SOURCES.txt
-src/filevault.egg-info/dependency_links.txt
-src/filevault.egg-info/entry_points.txt
-src/filevault.egg-info/requires.txt
-src/filevault.egg-info/top_level.txt
